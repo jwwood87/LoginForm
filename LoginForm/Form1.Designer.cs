@@ -116,7 +116,7 @@
             this.Controls.Add(this.Username);
             this.Controls.Add(this.btnLogin);
             this.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ForeColor = System.Drawing.SystemColors.Desktop;
+            this.ForeColor = System.Drawing.SystemColors.InfoText;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
